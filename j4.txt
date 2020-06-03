@@ -1,1 +1,7 @@
+adding new lines
+:w
+:q!
+
+:wq
+:Q!
 this is my fourth file
